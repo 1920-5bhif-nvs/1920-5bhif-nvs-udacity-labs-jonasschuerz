@@ -101,3 +101,17 @@ Dies ist ein Einführungsvideo zu der nächsten Übung, in welcher wir die erzeu
 
 ### 1.20 Adding the Image Resource
 Images werden in den Folder drawable gegeben
+
+### 1.21 Exercise the ImageView
+In dieser Übung werden die Zahlen mit Images getauscht.
+Mit der when Expression
+```
+val drawableResource = when (randomInt) {
+            1 -> R.drawable.dice_1
+            2 -> R.drawable.dice_2
+            3 -> R.drawable.dice_3
+            4 -> R.drawable.dice_4
+            5 -> R.drawable.dice_5
+            else -> R.drawable.dice_6
+        }
+```
