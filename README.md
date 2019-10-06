@@ -120,3 +120,10 @@ In dieser Lektion wurden wieder Studenten interviewt wie es ihnen ging damit And
 
 ### 1.23 Exercise: Finding Views Efficiently
 findViewById ist sehr performancelastig. Mit lateinit wird der Variable ein Wert zugewiesen beim ersten Aufruf, somit kann es nicht null sein. Dies wird gemacht für eine bessere Performance
+
+### 1.24 Namespaces
+Im XML gibt es verschiedene Namespaces. Wenn man zb. ein Image in der Preview sehen möchte aber nicht beim start so kann man bei Tools das Image eingeben was man in der Preview sehen möchte.
+```
+    android:src="@drawable/empty_dice"
+    tools:src="@drawable/dice_1"/>
+```
