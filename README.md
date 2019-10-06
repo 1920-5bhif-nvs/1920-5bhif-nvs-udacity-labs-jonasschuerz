@@ -74,3 +74,6 @@ Man lernt wie man einen Button mit der Activity Klasse verbindet.
 - Man gibt den Button eine Id, diese Id wird in der R Classe gespeichert.
 - Von der MainActivity.kt kann der button mittels: 
 ``` findByViewId(R.id.roll_button) ```
+
+### 1.16 Exercise: findByViewId
+In dieser Übung wird der Text vom Button in der Kotlin Klasse geändert
