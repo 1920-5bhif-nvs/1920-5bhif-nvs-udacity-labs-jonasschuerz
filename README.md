@@ -68,3 +68,9 @@ In dieser Lektion wird erklärt wie man einen Button zur App hinzufügt.
 
 ### 1.14 Exercise: Adding the Button    
 In dieser Lektion muss man die Übung von Lektion 1.13 auf das Project DiceRoller übertragen
+
+### 1.15 Connecting the Button
+Man lernt wie man einen Button mit der Activity Klasse verbindet. 
+- Man gibt den Button eine Id, diese Id wird in der R Classe gespeichert.
+- Von der MainActivity.kt kann der button mittels: 
+``` findByViewId(R.id.roll_button) ```
