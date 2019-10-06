@@ -42,3 +42,11 @@ In dieser Lektion wird gezeigt wie man Android Apps auf ein echtes Gerät deploy
 
 ### 1.8 Student Interview: Part 1 
 In dieser Lektion sprechen verschiedene Personen von der ganzen Welt über diesen Android Kurs und die meisten sind sehr begeistert.
+
+### 1.9 Main App Anatomy
+In dieser Lektion wird die Struktur(Ordner/Files die erstellt werden) einer Android App erklärt:
+- AndroidManifest.xml -> Hier steht alles drinnen was das OS System wissen muss um die App zu starten
+- Gradle scripts builden  die App
+- Kotlin files für die Kernlogic der App
+- res Ordner(für static Content: layout, Strings, Icons, Images)
+
