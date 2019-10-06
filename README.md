@@ -95,3 +95,6 @@ private fun rollDice() {
         resultText.text = randomInt.toString()
     }
 ```
+
+### 1.19 Dice Images
+Dies ist ein Einführungsvideo zu der nächsten Übung, in welcher wir die erzeugten Zahlen in Images umwandeln
