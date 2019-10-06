@@ -98,3 +98,6 @@ private fun rollDice() {
 
 ### 1.19 Dice Images
 Dies ist ein Einführungsvideo zu der nächsten Übung, in welcher wir die erzeugten Zahlen in Images umwandeln
+
+### 1.20 Adding the Image Resource
+Images werden in den Folder drawable gegeben
