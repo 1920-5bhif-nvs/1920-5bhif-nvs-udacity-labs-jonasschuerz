@@ -52,3 +52,10 @@ In dieser Lektion wird die Struktur(Ordner/Files die erstellt werden) einer Andr
 
 ### 1.10 Quiz App Anatomy
 ![](Pictures/Lesson_1_1.10.png)
+
+### 1.11 Activity and Layout
+Zu einer Activity Klasse gehört immer ein XML File.
+In der Activity Klasse(Kotlin Code) ist drinnen was die App machen soll(die Logik).
+Im XML-File ist das Layout, sprich wie die App ausschaun soll. Gemeinsam verbunden sind die beiden Files mit Layout Inflation.
+![](Pictures/Lesson_1_1.11.png)
+![](Pictures/Lesson_1_1.11_2.png)
