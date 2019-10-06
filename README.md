@@ -59,3 +59,6 @@ In der Activity Klasse(Kotlin Code) ist drinnen was die App machen soll(die Logi
 Im XML-File ist das Layout, sprich wie die App ausschaun soll. Gemeinsam verbunden sind die beiden Files mit Layout Inflation.
 ![](Pictures/Lesson_1_1.11.png)
 ![](Pictures/Lesson_1_1.11_2.png)
+
+### 1.12 Exercise: Hello Android
+In dieser Lektion wird der Text im Xml File von "Hello World" auf "Hello Android" geändert.
