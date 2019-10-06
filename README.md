@@ -115,3 +115,5 @@ val drawableResource = when (randomInt) {
             else -> R.drawable.dice_6
         }
 ```
+### 1.22 Student Interview: Part 2
+In dieser Lektion wurden wieder Studenten interviewt wie es ihnen ging damit Android zu lernen.
