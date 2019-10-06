@@ -62,3 +62,9 @@ Im XML-File ist das Layout, sprich wie die App ausschaun soll. Gemeinsam verbund
 
 ### 1.12 Exercise: Hello Android
 In dieser Lektion wird der Text im Xml File von "Hello World" auf "Hello Android" geändert.
+
+### 1.13 Adding the Button
+In dieser Lektion wird erklärt wie man einen Button zur App hinzufügt.
+
+### 1.14 Exercise: Adding the Button    
+In dieser Lektion muss man die Übung von Lektion 1.13 auf das Project DiceRoller übertragen
