@@ -50,3 +50,5 @@ In dieser Lektion wird die Struktur(Ordner/Files die erstellt werden) einer Andr
 - Kotlin files für die Kernlogic der App
 - res Ordner(für static Content: layout, Strings, Icons, Images)
 
+### 1.10 Quiz App Anatomy
+![](Pictures/Lesson_1_1.10.png)
