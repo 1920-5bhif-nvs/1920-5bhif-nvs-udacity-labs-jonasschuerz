@@ -85,3 +85,13 @@ Bei dieser Übung wird darauf reagiert wenn man auf den Button klickt. Es wird e
     Toast.makeText(this, "button clicked", Toast.LENGTH_SHORT).show()
 } 
 ```
+
+### 1.18 Exercise: Change the Text 
+In dieser Übung wird wenn man auf den Button klickt verschiedene Zahlen ausgegeben mittels der Random Klasse 
+```
+private fun rollDice() {
+        val resultText: TextView = findViewById(R.id.result_text)
+        val randomInt = Random().nextInt(6) + 1
+        resultText.text = randomInt.toString()
+    }
+```
