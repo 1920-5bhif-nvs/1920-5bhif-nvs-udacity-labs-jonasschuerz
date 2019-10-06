@@ -117,3 +117,6 @@ val drawableResource = when (randomInt) {
 ```
 ### 1.22 Student Interview: Part 2
 In dieser Lektion wurden wieder Studenten interviewt wie es ihnen ging damit Android zu lernen.
+
+### 1.23 Exercise: Finding Views Efficiently
+findViewById ist sehr performancelastig. Mit lateinit wird der Variable ein Wert zugewiesen beim ersten Aufruf, somit kann es nicht null sein. Dies wird gemacht für eine bessere Performance
