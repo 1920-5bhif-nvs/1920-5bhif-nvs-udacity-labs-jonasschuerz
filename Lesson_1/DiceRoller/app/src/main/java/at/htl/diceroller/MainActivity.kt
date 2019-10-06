@@ -3,6 +3,7 @@ package at.htl.diceroller
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
@@ -11,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val roll_button: Button = findViewById(R.id.roll_button)
         roll_button.text = "Let's Roll"
+        roll_button.setOnClickListener{
+            Toast.makeText(this,"button clicked",Toast.LENGTH_SHORT)
+        }
     }
 }

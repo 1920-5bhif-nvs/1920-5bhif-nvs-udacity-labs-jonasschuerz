@@ -77,3 +77,11 @@ Man lernt wie man einen Button mit der Activity Klasse verbindet.
 
 ### 1.16 Exercise: findByViewId
 In dieser Übung wird der Text vom Button in der Kotlin Klasse geändert
+
+### 1.17 Exercise: OnClickListener
+Bei dieser Übung wird darauf reagiert wenn man auf den Button klickt. Es wird eine Toast benachrichtigung verschickt.
+```
+ rollButton.setOnClickListener {
+    Toast.makeText(this, "button clicked", Toast.LENGTH_SHORT).show()
+} 
+```
