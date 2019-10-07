@@ -2,10 +2,11 @@
 
 ## :bookmark_tabs: Inhaltsverzeichnis
 - [Kurs](https://classroom.udacity.com/courses/ud9012)
-- [Lesson 1](#Lesson1)
+- [Lesson 1](#scroll-Lesson-1)
+- [Lesson 2](#scroll-Lesson-2)
 
 
-## Lesson 1 
+## :scroll: Lesson 1 
 
 ### 1.1 Welcome to Developing Android Apps
 In dieser Lektion werden die Vorraussetzungen beschrieben: Einen starken Rechner sodass Android Studio problemfrei laufen kann und Kotlin Kenntnisse
@@ -162,7 +163,7 @@ In dieser Lektion wird die Lesson noch einmal zusammengefasst was man lernte:
 - Layouts, Activities and Inflation
 - Interaction via Button
 
-## Lesson 2
+## :scroll: Lesson 2
 
 ### 2.1 Art with Alexs
 In dieser Einführungslektion erfahren wir das es in dieser Lesson über Layouts(Constraint Layout) gehen wird.
