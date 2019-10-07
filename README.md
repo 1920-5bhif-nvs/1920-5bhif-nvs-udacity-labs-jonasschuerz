@@ -127,3 +127,6 @@ Im XML gibt es verschiedene Namespaces. Wenn man zb. ein Image in der Preview se
     android:src="@drawable/empty_dice"
     tools:src="@drawable/dice_1"/>
 ```
+### 1.25 Introduction to Gradle
+Gradle ist das Build Tool für Android. Es steuert verschiedene Dinge wie: kompilieren, dependency management, führt automatische Tests aus,... 
+<p>Aus diesen Ressourcen wird ein APK File erstellt. Diese File wird dann auf dem Device installiert.
