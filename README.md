@@ -161,3 +161,8 @@ In dieser Lektion wird die Lesson noch einmal zusammengefasst was man lernte:
 - Basic App Structure
 - Layouts, Activities and Inflation
 - Interaction via Button
+
+## Lesson 2
+
+### 2.1 Art with Alexs
+In dieser Einführungslektion erfahren wir das es in dieser Lesson über Layouts(Constraint Layout) gehen wird. 
