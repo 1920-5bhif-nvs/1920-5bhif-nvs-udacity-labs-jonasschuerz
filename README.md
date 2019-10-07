@@ -165,4 +165,7 @@ In dieser Lektion wird die Lesson noch einmal zusammengefasst was man lernte:
 ## Lesson 2
 
 ### 2.1 Art with Alexs
-In dieser Einführungslektion erfahren wir das es in dieser Lesson über Layouts(Constraint Layout) gehen wird. 
+In dieser Einführungslektion erfahren wir das es in dieser Lesson über Layouts(Constraint Layout) gehen wird.
+
+### 2.2 Introduktion
+Hier wird erklärt das wir in dieser Lektion auch über verschiedene Arten von views und resources. Weiters lernen wir wie man den Android Studios Layout Editor verwendet. 
