@@ -153,3 +153,11 @@ android {
 
 ### 1.28 Exercise: Vector Drawables
 Siehe im Projekt
+
+### 1.29 Recap
+In dieser Lektion wird die Lesson noch einmal zusammengefasst was man lernte:
+- Setup Android Studio
+- Setup device or emulator
+- Basic App Structure
+- Layouts, Activities and Inflation
+- Interaction via Button
