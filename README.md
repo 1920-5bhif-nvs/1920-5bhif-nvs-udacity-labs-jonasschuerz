@@ -174,3 +174,6 @@ Hier wird erklärt das wir in dieser Lektion auch über verschiedene Arten von v
 In dieser Lektio lernt man über die View Hierarchy und View Groups.
 ![](Pictures/Lesson_2_2.3.png)
 ![](Pictures/Lesson_2_2.3_2.png)
+
+### 2.4 Create the AboutMe Project
+In dieser Lektion wird das Projekt AboutMe erstellt.
