@@ -130,3 +130,6 @@ Im XML gibt es verschiedene Namespaces. Wenn man zb. ein Image in der Preview se
 ### 1.25 Introduction to Gradle
 Gradle ist das Build Tool für Android. Es steuert verschiedene Dinge wie: kompilieren, dependency management, führt automatische Tests aus,... 
 <p>Aus diesen Ressourcen wird ein APK File erstellt. Diese File wird dann auf dem Device installiert.
+
+### 1.26 Build.gradle
+Gradle Files beinhalten dependencies, plugins, die sdk Version, eine ApplicationId(darf nur einmal auf dem Device vorhanden sein)
