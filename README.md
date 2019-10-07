@@ -151,3 +151,5 @@ android {
     }
 ```
 
+### 1.28 Exercise: Vector Drawables
+Siehe im Projekt
