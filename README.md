@@ -133,3 +133,21 @@ Gradle ist das Build Tool für Android. Es steuert verschiedene Dinge wie: kompi
 
 ### 1.26 Build.gradle
 Gradle Files beinhalten dependencies, plugins, die sdk Version, eine ApplicationId(darf nur einmal auf dem Device vorhanden sein)
+
+### 1.27 Android Compatibility
+Android läuft auf verschiedene Geräte(Tv, Tablet, Handy,...). Darum sind API Levels wichtig. Je niedriger das API-Level desto mehr Geräte können die App starten. 
+Im Gradle sieht man die mindest SdkVersion die dein Device zum starten braucht.
+
+```
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "at.htl.diceroller"
+        minSdkVersion 19
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+```
+
