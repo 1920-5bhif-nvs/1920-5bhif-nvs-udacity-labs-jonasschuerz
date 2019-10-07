@@ -177,3 +177,6 @@ In dieser Lektio lernt man über die View Hierarchy und View Groups.
 
 ### 2.4 Create the AboutMe Project
 In dieser Lektion wird das Projekt AboutMe erstellt.
+
+### 2.5 Exercise: Create the Layout File
+In diser Übung wird das activity_main.xml File erstellt falls es noch nicht vorhanden ist.
