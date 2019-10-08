@@ -190,3 +190,6 @@ Anschließend gab es wieder ein Quiz darüber.
 In dieser Lektion habe ich eine TextView hinzugefügt. Weiters habe ich den Text unter Attribute und die Schriftgröße bei textSize geändert.
 Unter Attribute -> neben den Text kann man den Ressourcen Editor öffnen. Im Ressourcen Manager rechts oben kann man eine neue String Value Resource anlegen 
 ![](Pictures/Lesson_2_2.7.png)
+
+### 2.8 Styling a TextView
+In dieser Lektion wird der Text durch Margin und Padding ausgerichtet. Weiters wurde eine andere Font eingestellt(Roboto).
