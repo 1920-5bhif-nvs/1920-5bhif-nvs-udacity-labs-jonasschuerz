@@ -185,3 +185,8 @@ In diser Übung wird das activity_main.xml File erstellt falls es noch nicht vor
 ### 2.6 Layout Editor Basics
 In dieser Lektion werden alle Teile vom Layout Editor erklärt.
 Anschließend gab es wieder ein Quiz darüber. 
+
+### 2.7 Adding a TextView
+In dieser Lektion habe ich eine TextView hinzugefügt. Weiters habe ich den Text unter Attribute und die Schriftgröße bei textSize geändert.
+Unter Attribute -> neben den Text kann man den Ressourcen Editor öffnen. Im Ressourcen Manager rechts oben kann man eine neue String Value Resource anlegen 
+![](Pictures/Lesson_2_2.7.png)
