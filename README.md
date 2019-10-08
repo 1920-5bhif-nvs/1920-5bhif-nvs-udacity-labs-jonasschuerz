@@ -181,3 +181,7 @@ In dieser Lektion wird das Projekt AboutMe erstellt.
 
 ### 2.5 Exercise: Create the Layout File
 In diser Übung wird das activity_main.xml File erstellt falls es noch nicht vorhanden ist.
+
+### 2.6 Layout Editor Basics
+In dieser Lektion werden alle Teile vom Layout Editor erklärt.
+Anschließend gab es wieder ein Quiz darüber. 
