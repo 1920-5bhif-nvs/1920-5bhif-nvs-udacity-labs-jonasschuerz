@@ -203,3 +203,5 @@ In der ScrollView habe ich einen Text hinzugefügt.
 Somit kann ich beim Text nach unten und oben scrollen.
 ![](Pictures/Lesson_2_2.10.png)
 
+### 2.11 Adding an EditText for Text Input
+In dieser Lektion habe ich eine EditBox hinzugefügt(Text -> Plain Text).
