@@ -196,3 +196,10 @@ In dieser Lektion wird der Text durch Margin und Padding ausgerichtet. Weiters w
 
 ### 2.9 Exercise: Add a Textview, Imageview, and Styling
 Unter common habe ich in dieser Lektion eine neuen Image hinzugefügt(btn_star_big_on). Weiters habe ich die Id des Images geändert. Weiters habe ich noch eine neue String resource angelegt(Diese resource wird von Screen Readers benutzt um ein Image zu beschreiben) und margin hinzugefügt.
+
+### 2.10 Exercise: Add a Scrollview
+In dieser Lektion gab ich der App eine ScrollView. Der ScrollView habe ich eine ID gegeben, sodass die scroll position erhalten bleibt wenn ich das Handy drehe.
+In der ScrollView habe ich einen Text hinzugefügt. 
+Somit kann ich beim Text nach unten und oben scrollen.
+![](Pictures/Lesson_2_2.10.png)
+
