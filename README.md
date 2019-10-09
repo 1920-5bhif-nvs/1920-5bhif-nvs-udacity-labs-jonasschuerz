@@ -193,3 +193,6 @@ Unter Attribute -> neben den Text kann man den Ressourcen Editor öffnen. Im Res
 
 ### 2.8 Styling a TextView
 In dieser Lektion wird der Text durch Margin und Padding ausgerichtet. Weiters wurde eine andere Font eingestellt(Roboto).
+
+### 2.9 Exercise: Add a Textview, Imageview, and Styling
+Unter common habe ich in dieser Lektion eine neuen Image hinzugefügt(btn_star_big_on). Weiters habe ich die Id des Images geändert. Weiters habe ich noch eine neue String resource angelegt(Diese resource wird von Screen Readers benutzt um ein Image zu beschreiben) und margin hinzugefügt.
