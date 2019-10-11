@@ -208,3 +208,12 @@ In dieser Lektion habe ich eine EditBox hinzugefügt(Text -> Plain Text).
 
 ### 2.12 Adding a Done Button to Accept Text Input
 In dieser Lektion wir ein neuer Button und eine TextView hinzugefügt.
+
+### 2.13 Exercise: Add EditText, Done Button, ClickHandler
+In dieser Lektion gab ich dem Button eine Logik.
+```
+ findViewById<Button>(R.id.done_button).setOnClickListener {
+            addNickname(it)
+        }
+ ```
+ Wenn der Button gedrückt wird, wird die Methode addNickname ausgeführt.
