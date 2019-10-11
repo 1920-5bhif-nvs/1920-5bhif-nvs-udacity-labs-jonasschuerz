@@ -205,3 +205,6 @@ Somit kann ich beim Text nach unten und oben scrollen.
 
 ### 2.11 Adding an EditText for Text Input
 In dieser Lektion habe ich eine EditBox hinzugefügt(Text -> Plain Text).
+
+### 2.12 Adding a Done Button to Accept Text Input
+In dieser Lektion wir ein neuer Button und eine TextView hinzugefügt.
