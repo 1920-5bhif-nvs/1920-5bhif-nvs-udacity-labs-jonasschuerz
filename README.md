@@ -255,3 +255,5 @@ In diesem Projekt schalten wir als erstes die Autoconnection ab, da wir die Cons
 ![](Pictures/Lesson_2_2.21.png)
 Es werden weiters erklärt wie man zwischen verschiedene Display Auflösungen wechseln kann.
 
+### 2.22 Constraints
+In dieser Lektion lernt man noch mehr über Constraints.
