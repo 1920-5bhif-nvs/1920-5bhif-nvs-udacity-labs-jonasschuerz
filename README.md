@@ -246,3 +246,6 @@ In dieser Lektion werden wieder Personen interviewt.
 
 ### 2.19 Constraint Layout: ColorMyViews App
 Das Constraint Layout sind Bedingungen für UI-Elemente, die zur Positionierung derer dienen.  Sie beschreiben relative Abhängigkeiten zwischen den einzelnen Elementen. Es können Constraints für eine oder mehrere Seiten eines Elements definiert werden. Es sind aber mindestens so viele Constraints nötig, dass jedes Element eindeutig positioniert werden kann. ConstraintLayout bietet die Möglichkeit sogenannte Side-Connections, Side-Alignments und Baseline-Alignments festzulegen.
+
+### 2.20 Exercise: Create ColorMyViews Project and One Box
+In dieser Lektion wird ein neues Projekt angelegt.
