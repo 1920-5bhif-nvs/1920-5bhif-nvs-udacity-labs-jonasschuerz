@@ -217,3 +217,7 @@ In dieser Lektion gab ich dem Button eine Logik.
         }
  ```
  Wenn der Button gedrückt wird, wird die Methode addNickname ausgeführt.
+
+ ### 2.14 Data Binding
+ In dieser Lektion lernt man darüber wie Data Binding funktioniert.
+ ![](Pictures/Lesson_2_2.14.png)
