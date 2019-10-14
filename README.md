@@ -224,6 +224,7 @@ In dieser Lektion gab ich dem Button eine Logik.
 
 ### 2.15 Data Binding: Views
 Um Data Binding nutzen können muss man DataBinding im build.gradle(Module:app) aktivieren.
+
 ```
  dataBinding {
         enabled = true
@@ -233,4 +234,6 @@ Als nächstes müssen wir unser xml layout mit einen Layout tag einwickeln.
 Danach kann man ein Binding Object im Main Activity Kotlin file erstellen: 
 ```
 private lateinit var binding: ActivityMainBinding
-```
+``` 
+### 2.16 Data Binding: Data
+In dieser Lektion wird erklärt wie man eine neue Kotlin Klasse erstellt. Statt einer String ressource verwenden wir jetzt eine Klasse.
