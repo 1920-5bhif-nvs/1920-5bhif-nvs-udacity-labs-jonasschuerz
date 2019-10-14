@@ -249,3 +249,9 @@ Das Constraint Layout sind Bedingungen für UI-Elemente, die zur Positionierung 
 
 ### 2.20 Exercise: Create ColorMyViews Project and One Box
 In dieser Lektion wird ein neues Projekt angelegt.
+
+### 2.21 Exercise: Create ColorMyViews Project and One Box
+In diesem Projekt schalten wir als erstes die Autoconnection ab, da wir die Constraints manuell hinzufügen.
+![](Pictures/Lesson_2_2.21.png)
+Es werden weiters erklärt wie man zwischen verschiedene Display Auflösungen wechseln kann.
+
