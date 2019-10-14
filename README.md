@@ -257,3 +257,6 @@ Es werden weiters erklärt wie man zwischen verschiedene Display Auflösungen we
 
 ### 2.22 Constraints
 In dieser Lektion lernt man noch mehr über Constraints.
+
+### 2.23 Ratio
+Ratios(Verhältnisse) sind am nützlichsten, wenn das Layout Views enthält, deren Form / Seitenverhältnis auch dann erhalten bleiben muss, wenn sich die Ausrichtung oder die Abmessungen des Bildschirms ändern.
