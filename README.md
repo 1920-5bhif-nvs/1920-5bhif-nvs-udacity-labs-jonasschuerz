@@ -240,3 +240,6 @@ In dieser Lektion wird erklärt wie man eine neue Kotlin Klasse erstellt. Statt 
 
 ### 2.17 Exercise: Implement Data Binding
 In dieser Lektion wird das gelernte aus der Lektion davor auf unser Projekt übertragen.
+
+### 2.18 Google Interview: John Hoford and Nicolas Roard
+In dieser Lektion werden wieder Personen interviewt.
