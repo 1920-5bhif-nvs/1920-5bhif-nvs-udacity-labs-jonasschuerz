@@ -237,3 +237,6 @@ private lateinit var binding: ActivityMainBinding
 ``` 
 ### 2.16 Data Binding: Data
 In dieser Lektion wird erklärt wie man eine neue Kotlin Klasse erstellt. Statt einer String ressource verwenden wir jetzt eine Klasse.
+
+### 2.17 Exercise: Implement Data Binding
+In dieser Lektion wird das gelernte aus der Lektion davor auf unser Projekt übertragen.
