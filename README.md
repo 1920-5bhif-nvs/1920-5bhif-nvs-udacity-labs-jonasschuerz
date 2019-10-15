@@ -260,3 +260,6 @@ In dieser Lektion lernt man noch mehr über Constraints.
 
 ### 2.23 Ratio
 Ratios(Verhältnisse) sind am nützlichsten, wenn das Layout Views enthält, deren Form / Seitenverhältnis auch dann erhalten bleiben muss, wenn sich die Ausrichtung oder die Abmessungen des Bildschirms ändern.
+
+### 2.24 Chaining
+Eine Chain ist eine Gruppe von Views die mit bidirektionalen position constraints miteinander verknüpft sind.  
