@@ -278,3 +278,6 @@ In dieser Lektion sind alle TextViews am Anfang weiß und sobald man auf die Tex
 
 ### 2.28 Baseline Constraint
 Baseline-Alignment: Ist die Ausrichtung an der Baseline eines anderen UI-Elements, um z.B. den Textinhalt von verschiedenen UI-Elementen gleich anzuordnen.
+
+### 2.29 Exercise: Add Baseline Constraint and Button Chain
+In dieser Lektion werden 3 Buttons hinzugefügt, und mit Baseline Constraint verbunden. Weiters werden den Buttons String Resourcen gegeben. Farben werden gesetzt wenn auf den jeweilign Button draufgedrückt wird.
