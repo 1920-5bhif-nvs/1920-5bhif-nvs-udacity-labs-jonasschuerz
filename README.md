@@ -272,3 +272,6 @@ In dieser Lektion werden weitere 3 TextViews hinzugefügt. Wir verwenden flexibl
 ![](Pictures/Lesson_2_2.26.png)
 ![](Pictures/Lesson_2_2.26_2.png)
 Das obere Bild zeigt den Portrait Modus und das untere Bild den Landscape Modus.
+
+### 2.27 Exercise: Add Aligned Boxes with Click Handlers
+In dieser Lektion sind alle TextViews am Anfang weiß und sobald man auf die TextView klickt werden die Farben geändert und die Hintergrund Farbe, wenn der User den Screen berührt.
