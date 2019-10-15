@@ -263,3 +263,6 @@ Ratios(Verhältnisse) sind am nützlichsten, wenn das Layout Views enthält, der
 
 ### 2.24 Chaining
 Eine Chain ist eine Gruppe von Views die mit bidirektionalen position constraints miteinander verknüpft sind.  
+
+### 2.25 Adding Box Two Below Box One
+In dieser Lektion wird eine neue TextView hinzugefügt.
