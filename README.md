@@ -266,3 +266,9 @@ Eine Chain ist eine Gruppe von Views die mit bidirektionalen position constraint
 
 ### 2.25 Adding Box Two Below Box One
 In dieser Lektion wird eine neue TextView hinzugefügt.
+
+### 2.26 Adding Three Aligned Boxes
+In dieser Lektion werden weitere 3 TextViews hinzugefügt. Wir verwenden flexible Constraints, sodass die Ordnung im Landscape Modus aufrechterhalten bleibt.
+![](Pictures/Lesson_2_2.26.png)
+![](Pictures/Lesson_2_2.26_2.png)
+Das obere Bild zeigt den Portrait Modus und das untere Bild den Landscape Modus.
