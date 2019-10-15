@@ -274,4 +274,7 @@ In dieser Lektion werden weitere 3 TextViews hinzugefügt. Wir verwenden flexibl
 Das obere Bild zeigt den Portrait Modus und das untere Bild den Landscape Modus.
 
 ### 2.27 Exercise: Add Aligned Boxes with Click Handlers
-In dieser Lektion sind alle TextViews am Anfang weiß und sobald man auf die TextView klickt werden die Farben geändert und die Hintergrund Farbe, wenn der User den Screen berührt.
+In dieser Lektion sind alle TextViews am Anfang weiß und sobald man auf die TextView klickt werden die Farben geändert und die Hintergrund Farbe, wenn der User den Screen berührt.^
+
+### 2.28 Baseline Constraint
+Baseline-Alignment: Ist die Ausrichtung an der Baseline eines anderen UI-Elements, um z.B. den Textinhalt von verschiedenen UI-Elementen gleich anzuordnen.
