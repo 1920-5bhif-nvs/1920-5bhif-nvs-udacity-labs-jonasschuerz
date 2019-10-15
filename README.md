@@ -281,3 +281,6 @@ Baseline-Alignment: Ist die Ausrichtung an der Baseline eines anderen UI-Element
 
 ### 2.29 Exercise: Add Baseline Constraint and Button Chain
 In dieser Lektion werden 3 Buttons hinzugefügt, und mit Baseline Constraint verbunden. Weiters werden den Buttons String Resourcen gegeben. Farben werden gesetzt wenn auf den jeweilign Button draufgedrückt wird.
+
+### 2.30 Where you go next?
+In diesem Video wird nochmal zusammengefasst was wir in dieser Lesson gelernt haben.
