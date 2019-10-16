@@ -287,3 +287,6 @@ In dieser Lektion werden 3 Buttons hinzugefügt, und mit Baseline Constraint ver
 In diesem Video wird nochmal zusammengefasst was wir in dieser Lesson gelernt haben.
 
 ## :scroll: Lesson 3
+
+### 3.1 The Guide and the Traveler
+In dieser Lektion wird erklärt was wir in dieser Lesson lernen. In dieser Lesson wird gezeigt wie man apps erzeugt die multiple screens beinhalten. Es wird gezeigt wie man diese xml files miteinander verbindet(map, navigation path).
