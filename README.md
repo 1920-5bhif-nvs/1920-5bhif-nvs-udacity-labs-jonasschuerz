@@ -4,6 +4,7 @@
 - [Kurs](https://classroom.udacity.com/courses/ud9012)
 - [Lesson 1](#scroll-Lesson-1)
 - [Lesson 2](#scroll-Lesson-2)
+- [Lesson 3](#scroll-Lesson-3)
 
 
 ## :scroll: Lesson 1 
@@ -284,3 +285,5 @@ In dieser Lektion werden 3 Buttons hinzugefügt, und mit Baseline Constraint ver
 
 ### 2.30 Where you go next?
 In diesem Video wird nochmal zusammengefasst was wir in dieser Lesson gelernt haben.
+
+## :scroll: Lesson 3
