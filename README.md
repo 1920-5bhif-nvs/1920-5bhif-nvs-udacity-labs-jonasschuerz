@@ -290,3 +290,7 @@ In diesem Video wird nochmal zusammengefasst was wir in dieser Lesson gelernt ha
 
 ### 3.1 The Guide and the Traveler
 In dieser Lektion wird erklärt was wir in dieser Lesson lernen. In dieser Lesson wird gezeigt wie man apps erzeugt die multiple screens beinhalten. Es wird gezeigt wie man diese xml files miteinander verbindet(map, navigation path).
+
+### 3.2 Android Navigation Patterns
+In diesem Video wird erklärt wie Navigation funktioniert am folgenden Beispiel und das eine Activity mehrere Fragments beinhalten kann.
+![](Pictures/Lesson_3_3.1.png)
