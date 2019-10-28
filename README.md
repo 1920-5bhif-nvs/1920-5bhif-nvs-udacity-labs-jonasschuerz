@@ -340,3 +340,6 @@ In dieser Lektion werden die Fragments: GameWon und GameOver hinzugefügt.
 
 ### 3.12 Exercise: Back Stack Manipulation
 Das Problem hier ist wenn man am Handy auf die Zurücktaste klickt navigiert man einfach eine Frage zurück und kann sie dann richtig beantworten. Um dieses Problem zu vermeiden muss man das Fragment vom Backstack löschen.
+
+### 3.13 Quiz: Back Stack Manipulation
+In dieser Lektion gibt es ein Quiz über Back Stack Manipulation
