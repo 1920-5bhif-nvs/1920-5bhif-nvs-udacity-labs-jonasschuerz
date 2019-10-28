@@ -334,3 +334,6 @@ binding.playButton.setOnClickListener(
 
 ### 3.10 Principles of Navigation
 Die Prinzipien von Navigationen werden nochmals wiederholt(Siehe Punkt 3.8)
+
+### 3.11 Exercise: Conditional Navigation
+In dieser Lektion werden die Fragments: GameWon und GameOver hinzugefügt.
