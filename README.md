@@ -300,3 +300,6 @@ In dieser Lektion gibt es ein Quiz über Navigation Terms.
 
 ### 3.4 Fragments
 In Android 3.0 Honeycomb wurden fragments hinzugefügt. Eine Activity kann mehrere UI Fragments beinhalten. Man kann zwischen den verschieden Fragments einer Activity navigieren. 
+
+### 3.5 Quiz: Fragment Basics
+In dieser Lektion gibt es ein Quiz über Fragments.
