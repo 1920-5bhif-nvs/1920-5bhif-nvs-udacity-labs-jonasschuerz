@@ -312,3 +312,9 @@ In dieser Lektion lernen wir wie man ein Fragment erstellt.
 
 ``` File -> New -> Fragment -> Fragment(Blank) ```
 Weiters wurde in der Übung ein Fragment zum main layout hinzugefügt.
+
+### 3.8 Navigation Component
+Prinzipien von Navigation Component:
+- Die App hat einen fixen Startpunkt.
+- Man sollte immer zurück navigieren können.
+- Der Up Button sollte immer angezeigt werden (Außer auf der Startseite)
