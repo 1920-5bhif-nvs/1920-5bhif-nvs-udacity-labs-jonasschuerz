@@ -306,3 +306,9 @@ In dieser Lektion gibt es ein Quiz über Fragments.
 
 ### 3.6 Exercise: Project Tour
 Im AndroidManifest.xml ist festgelegt welche Acitivity am Anfang gestartet wird. Im res Ordner werden Animationen, drawables, Layouts, menu(für navigation), mipmap(png icons) und values(Konstanten für Farben, Strings, Styles, ...) gespeichert.
+
+### 3.7 Exercise: Creating and Adding a Fragment
+In dieser Lektion lernen wir wie man ein Fragment erstellt.
+
+``` File -> New -> Fragment -> Fragment(Blank) ```
+Weiters wurde in der Übung ein Fragment zum main layout hinzugefügt.
