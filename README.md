@@ -297,3 +297,6 @@ In diesem Video wird erklärt wie Navigation funktioniert am folgenden Beispiel 
 
 ### 3.3 Quiz: Navigation Terms
 In dieser Lektion gibt es ein Quiz über Navigation Terms.
+
+### 3.4 Fragments
+In Android 3.0 Honeycomb wurden fragments hinzugefügt. Eine Activity kann mehrere UI Fragments beinhalten. Man kann zwischen den verschieden Fragments einer Activity navigieren. 
