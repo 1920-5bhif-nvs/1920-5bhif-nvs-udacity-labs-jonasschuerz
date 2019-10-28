@@ -303,3 +303,6 @@ In Android 3.0 Honeycomb wurden fragments hinzugefügt. Eine Activity kann mehre
 
 ### 3.5 Quiz: Fragment Basics
 In dieser Lektion gibt es ein Quiz über Fragments.
+
+### 3.6 Exercise: Project Tour
+Im AndroidManifest.xml ist festgelegt welche Acitivity am Anfang gestartet wird. Im res Ordner werden Animationen, drawables, Layouts, menu(für navigation), mipmap(png icons) und values(Konstanten für Farben, Strings, Styles, ...) gespeichert.
