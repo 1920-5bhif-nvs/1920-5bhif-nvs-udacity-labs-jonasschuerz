@@ -337,3 +337,6 @@ Die Prinzipien von Navigationen werden nochmals wiederholt(Siehe Punkt 3.8)
 
 ### 3.11 Exercise: Conditional Navigation
 In dieser Lektion werden die Fragments: GameWon und GameOver hinzugefügt.
+
+### 3.12 Exercise: Back Stack Manipulation
+Das Problem hier ist wenn man am Handy auf die Zurücktaste klickt navigiert man einfach eine Frage zurück und kann sie dann richtig beantworten. Um dieses Problem zu vermeiden muss man das Fragment vom Backstack löschen.
