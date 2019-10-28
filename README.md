@@ -343,3 +343,6 @@ Das Problem hier ist wenn man am Handy auf die Zurücktaste klickt navigiert man
 
 ### 3.13 Quiz: Back Stack Manipulation
 In dieser Lektion gibt es ein Quiz über Back Stack Manipulation
+
+### 3.14 Exercise: Adding Support for the Up Button
+Ein Up Button links oben(nicht immer) wurde hinzugefügt zum zurück navigieren.
