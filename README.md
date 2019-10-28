@@ -318,3 +318,16 @@ Prinzipien von Navigation Component:
 - Die App hat einen fixen Startpunkt.
 - Man sollte immer zurück navigieren können.
 - Der Up Button sollte immer angezeigt werden (Außer auf der Startseite)
+
+### 3.9 Exercise: Let’s Navigate Already
+In dieser Lektion erstellen wir einen Navigation Graph:
+- Zuerste erstellen wir ein neues file im Ressource Ordner
+  (File name: navigation, Resoure Type: Navigation)
+- Fragment name und id ändern im activity_main xml, weiters navGraph und defaultNavHost hinzufügen
+- Fragments im Navigation xml auswählen
+- ClickListener im TitleFragment.kt(Wechseln eines Fragments):
+```
+binding.playButton.setOnClickListener(
+                Navigation.createNavigateOnClickListener(R.id.action_titleFragment_to_gameFragment)
+)
+```
