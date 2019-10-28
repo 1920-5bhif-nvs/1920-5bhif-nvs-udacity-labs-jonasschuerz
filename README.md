@@ -331,3 +331,6 @@ binding.playButton.setOnClickListener(
                 Navigation.createNavigateOnClickListener(R.id.action_titleFragment_to_gameFragment)
 )
 ```
+
+### 3.10 Principles of Navigation
+Die Prinzipien von Navigationen werden nochmals wiederholt(Siehe Punkt 3.8)
