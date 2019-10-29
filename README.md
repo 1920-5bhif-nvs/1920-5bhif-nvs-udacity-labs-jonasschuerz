@@ -377,3 +377,6 @@ Nach dieser Lektion kann man sein Ergebnis mit anderen Teilen.
 
 ### 3.24 Exercise: Adding the Navigation Drawer
 In dieser Lektion wird ein Navigation Drawer hinzugefügt.
+
+### 3.25 Summary of Navigation
+Die Lesson 3(Navigation) wird nochmal zusammengefasst.
