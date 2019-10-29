@@ -380,3 +380,6 @@ In dieser Lektion wird ein Navigation Drawer hinzugefügt.
 
 ### 3.25 Summary of Navigation
 Die Lesson 3(Navigation) wird nochmal zusammengefasst.
+
+### 3.26 Quiz: How to Navigate
+Quiz über Navigation.
