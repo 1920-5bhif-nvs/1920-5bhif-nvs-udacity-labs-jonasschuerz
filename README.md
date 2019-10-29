@@ -383,3 +383,15 @@ Die Lesson 3(Navigation) wird nochmal zusammengefasst.
 
 ### 3.26 Quiz: How to Navigate
 Quiz über Navigation.
+
+### 3.27 Exercise: Using Navigation Listeners
+Folgender Code wird im MainActivity.kt hinzugefügt damit man während des Spieles nicht den Navigation Drawer öffnen kann.
+```
+navController.addOnDestinationChangedListener { nc: NavController, nd: NavDestination, args: Bundle? ->
+            if (nd.id == nc.graph.startDestination) {
+                drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED)
+            } else {
+                drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED)
+            }
+        }
+```
