@@ -395,3 +395,5 @@ navController.addOnDestinationChangedListener { nc: NavController, nd: NavDestin
             }
         }
 ```
+### 3.28 Exercise: Animation with Navigation
+In dieser Lektion werden ViewAnimations hinzugefügt. 
