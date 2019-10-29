@@ -363,4 +363,7 @@ Quiz über Attribute und ihre funktion(zb. Id, title,...).
 In dieser Lektion werden Argumente zwischen 2 Fragmente (zb. A und B) übergeben(Anzahl der Fragen, Anzahl der richtig beantworteten Fragen) SafeArgs wird verwendet, um Bugs aufgrund von verschiedenen Datentypen zu verhindern. 
 
 ### 3.20 Why do we have Safe Arguments?
-Quiz über SafeArgs.
+Quiz über SafeArgs. 
+
+### 3.21 Intents und Sharing
+In diesem Video wird erklärt was Intenst und Sharing bedeutet. Intents braucht man man wenn man z.B auf Kontakte zugreifen möchte, oder die Kamera öffnen möchte. Mit Sharing kann man z.B Texte über Social Networks, e-mail, ... mit anderen Usern teilen.
