@@ -374,3 +374,6 @@ Quiz über intent type.
 ### 3.23 Exercise: Adding Sharing with an Intent
 Nach dieser Lektion kann man sein Ergebnis mit anderen Teilen.
 ![](Pictures/Lesson_3_3.23.png)
+
+### 3.24 Exercise: Adding the Navigation Drawer
+In dieser Lektion wird ein Navigation Drawer hinzugefügt.
