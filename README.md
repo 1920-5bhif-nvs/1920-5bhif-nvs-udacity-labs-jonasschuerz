@@ -370,3 +370,7 @@ In diesem Video wird erklärt was Intenst und Sharing bedeutet. Intents braucht 
 
 ### 3.22 Quiz: Explicit vs Implicit Intents
 Quiz über intent type.
+
+### 3.23 Exercise: Adding Sharing with an Intent
+Nach dieser Lektion kann man sein Ergebnis mit anderen Teilen.
+![](Pictures/Lesson_3_3.23.png)
