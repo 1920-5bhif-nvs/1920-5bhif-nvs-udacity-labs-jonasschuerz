@@ -361,3 +361,6 @@ Quiz über Attribute und ihre funktion(zb. Id, title,...).
 
 ### 3.19 Exercise: Adding Safe Arguments
 In dieser Lektion werden Argumente zwischen 2 Fragmente (zb. A und B) übergeben(Anzahl der Fragen, Anzahl der richtig beantworteten Fragen) SafeArgs wird verwendet, um Bugs aufgrund von verschiedenen Datentypen zu verhindern. 
+
+### 3.20 Why do we have Safe Arguments?
+Quiz über SafeArgs.
