@@ -367,3 +367,6 @@ Quiz über SafeArgs.
 
 ### 3.21 Intents und Sharing
 In diesem Video wird erklärt was Intenst und Sharing bedeutet. Intents braucht man man wenn man z.B auf Kontakte zugreifen möchte, oder die Kamera öffnen möchte. Mit Sharing kann man z.B Texte über Social Networks, e-mail, ... mit anderen Usern teilen.
+
+### 3.22 Quiz: Explicit vs Implicit Intents
+Quiz über intent type.
