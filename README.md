@@ -403,3 +403,6 @@ In dieser Lektion werden ViewAnimations hinzugefügt.
 Abschließendes Quiz über Animation Attribute.
 
 ## :scroll: Lesson 4 
+
+### 4.1 The Case of the Missing Data
+In dieser Lesson beschäftigen wir uns mit dem Android Activity Lifecycle. Das Problem ist zum Beispiel, wenn man das Handy dreht, dass die Daten verloren gehen. 
