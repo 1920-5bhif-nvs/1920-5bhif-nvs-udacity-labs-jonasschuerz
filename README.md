@@ -409,3 +409,20 @@ In dieser Lesson beschäftigen wir uns mit dem Android Activity Lifecycle. Das P
 
 ### 4.2 Why Track Activity State?
 ![](Pictures/Lesson_4_4.2.png)
+
+### 4.3 Exercise: Introduction to the Activity Lifecycle Diagram
+Zustände einer Activity:
+- Created
+- Started
+- Resumed
+- Destroyed
+- Initialized
+
+Callback Methods:
+- onCreate
+- onStart
+- onResume
+- onDestroy
+- onPause
+- onStop
+- onRestart
