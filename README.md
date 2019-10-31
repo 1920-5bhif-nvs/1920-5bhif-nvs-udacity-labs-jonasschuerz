@@ -426,3 +426,8 @@ Callback Methods:
 - onPause
 - onStop
 - onRestart
+
+### 4.4 Exercise: Introduction to Logging
+In dieser Lektion lernt man übers Logging. 
+Ein Log Statement schaut folgendermaßen aus: ``` Log.i("MainActivity", "onStart called") ``` .
+Im Logcat erhält man folgende Ausgabe: ``` 2019-10-31 13:40:07.436 3757-3757/com.example.android.dessertpusher I/MainActivity: onStart called ```.
