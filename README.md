@@ -406,3 +406,6 @@ Abschließendes Quiz über Animation Attribute.
 
 ### 4.1 The Case of the Missing Data
 In dieser Lesson beschäftigen wir uns mit dem Android Activity Lifecycle. Das Problem ist zum Beispiel, wenn man das Handy dreht, dass die Daten verloren gehen. 
+
+### 4.2 Why Track Activity State?
+![](Pictures/Lesson_4_4.2.png)
