@@ -431,3 +431,13 @@ Callback Methods:
 In dieser Lektion lernt man übers Logging. 
 Ein Log Statement schaut folgendermaßen aus: ``` Log.i("MainActivity", "onStart called") ``` .
 Im Logcat erhält man folgende Ausgabe: ``` 2019-10-31 13:40:07.436 3757-3757/com.example.android.dessertpusher I/MainActivity: onStart called ```.
+
+### 4.5 Exercise: The Application Class and Timber
+Es wird die Timber Logging Library vorgestellt.
+Benefits:
+- Generates tags
+- Avoid logs in released app apks
+- Easy integration with crash reporting
+
+Timber Dependency im Gradle File hinzufügen: ``` implementation 'com.jakewharton.timber:timber:4.7.1' ```
+In der Klasse zur Ausgabe: ``` Timber.i("onStart called") ``` implementieren.
