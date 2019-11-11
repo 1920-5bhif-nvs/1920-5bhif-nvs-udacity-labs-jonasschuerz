@@ -441,3 +441,12 @@ Benefits:
 
 Timber Dependency im Gradle File hinzufügen: ``` implementation 'com.jakewharton.timber:timber:4.7.1' ```
 In der Klasse zur Ausgabe: ``` Timber.i("onStart called") ``` implementieren.
+
+### 4.6 Lifecycle: Open and Close
+In dieser Lektion werden die Aufrufe der Lifecycle Methoden  geloggt. 
+1. onCreate called
+2. onStart called
+3. onResume called
+4. onPause called
+5. onStop called
+6. onDestroy called
