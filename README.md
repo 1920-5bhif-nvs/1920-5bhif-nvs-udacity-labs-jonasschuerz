@@ -450,3 +450,9 @@ In dieser Lektion werden die Aufrufe der Lifecycle Methoden  geloggt.
 4. onPause called
 5. onStop called
 6. onDestroy called
+
+### 4.7 Lifecycle: Share dialog
+In dieser Lektion sehen wir welche Lifecycle Methoden aufgerufen werden wenn man etwas teilen möchte.
+
+1. onPause called
+2. onResume called
