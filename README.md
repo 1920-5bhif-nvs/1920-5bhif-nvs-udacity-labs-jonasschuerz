@@ -471,3 +471,6 @@ Quiz! Man soll die App öffnen und im Logcat nachschauen welche Methoden in welc
 3. onRestart
 4. onStart
 5. onResume
+
+### 4.11 Google Interview: Dianne Hackborn
+Ein Interview mit Dianne Hackborn(Android Framework Tech Lead)
