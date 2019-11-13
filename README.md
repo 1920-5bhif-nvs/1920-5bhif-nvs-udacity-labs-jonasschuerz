@@ -460,3 +460,6 @@ In dieser Lektion sehen wir welche Lifecycle Methoden aufgerufen werden wenn man
 ### 4.8 onCreate vs onStart
 - onStart wird aufgerufen wenn die App geöffnet wird
 - onCreate wird aufgerufen wenn die App erstellt wird
+
+### 4.9 Activity Lifecycle States and Callbacks Summary
+Das gelernte aus den vorherigen Lektion wird nochmal zusammengefasst.
