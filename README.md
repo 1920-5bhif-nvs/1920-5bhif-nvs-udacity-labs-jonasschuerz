@@ -456,3 +456,7 @@ In dieser Lektion sehen wir welche Lifecycle Methoden aufgerufen werden wenn man
 
 1. onPause called
 2. onResume called
+
+### 4.8 onCreate vs onStart
+- onStart wird aufgerufen wenn die App geöffnet wird
+- onCreate wird aufgerufen wenn die App erstellt wird
