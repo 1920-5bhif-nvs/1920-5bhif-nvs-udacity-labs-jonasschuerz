@@ -463,3 +463,11 @@ In dieser Lektion sehen wir welche Lifecycle Methoden aufgerufen werden wenn man
 
 ### 4.9 Activity Lifecycle States and Callbacks Summary
 Das gelernte aus den vorherigen Lektion wird nochmal zusammengefasst.
+
+### 4.10 Lifecycle: Navigate Away
+Quiz! Man soll die App öffnen und im Logcat nachschauen welche Methoden in welcher Reihenfolge aufgerufen werden.
+1. onPause
+2. onStop
+3. onRestart
+4. onStart
+5. onResume
