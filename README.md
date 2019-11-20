@@ -474,3 +474,6 @@ Quiz! Man soll die App öffnen und im Logcat nachschauen welche Methoden in welc
 
 ### 4.11 Google Interview: Dianne Hackborn
 Ein Interview mit Dianne Hackborn(Android Framework Tech Lead)
+
+### 4.12 Exercise: Setup and Teardown
+Um zu verhindern das ein Timer weiterläuft obwohl die Activity nicht sichtbar ist, kann man die Lifecycle Methoden onStart bzw. onStop verwenden. Startet man etwas in onCreate sollte man es in onDestroy wieder zerstören.
