@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
             onDessertClicked()
         }
 
-        dessertTimer = DessertTimer()
+        dessertTimer = DessertTimer(this.lifecycle)
         dessertTimer.startTimer()
 
         // Set the TextViews to the right values
