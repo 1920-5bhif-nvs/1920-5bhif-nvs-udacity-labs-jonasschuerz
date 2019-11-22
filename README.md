@@ -484,3 +484,7 @@ Vor der Lifecycle Library war der einzige Weg mit einen fragment oder activity l
 ### 4.14 Exercise: Lifecycle Observation
 LifecycleObserver:
 - Observer of a LifecycleOwner, such as an Activity or Fragment
+
+### 4.15 Process Shutdown
+In diesem Video wird der Process Shutdown erklärt(wenn man die App verlässt soll die Activity nicht vernichtet werden).
+Weiters wird dies in 4.16 näher beschrieben.
