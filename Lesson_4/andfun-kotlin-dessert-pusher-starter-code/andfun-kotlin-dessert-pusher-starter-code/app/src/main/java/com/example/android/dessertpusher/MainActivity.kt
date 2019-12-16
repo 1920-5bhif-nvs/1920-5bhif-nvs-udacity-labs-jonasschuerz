@@ -161,7 +161,7 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
 
     override fun onSaveInstanceState(outState: Bundle?) {
         super.onSaveInstanceState(outState)
-        outState.putInt(KEY_REVENUE,revenue)
+        outState?.putInt(KEY_REVENUE,revenue)
         Timber.i("onSaveInstanceState called")
     }
 

@@ -494,3 +494,7 @@ Demo beispiel mit ADB Command
 
 ### 4.17 Exercise: onSaveInstanceState
 In dieser Übung stellen wir sicher, dass die Daten gespeichert und wiederhergestellt werden, auch wenn unsere App im Hintergrund heruntergefahren wird.
+
+### 4.18 Configuration Changes
+In dieser Übung soll man das Handy drehen und schauen im Logcat welche Lifecycle Methoden aufgerufen wurden.
+![](Pictures/Lesson_4_4.18.png)
