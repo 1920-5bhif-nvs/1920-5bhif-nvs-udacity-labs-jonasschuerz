@@ -521,3 +521,7 @@ Man muss Wörter erraten die ein anderer pantomimisch darstellt.
 
 ### 5.4 Where the App Falls Short
 In diesem Video werden die Probleme gezeigt die wir auch beim vorigen Beispiel hatten. Wird das Handy gedreht so gehen die aktuellen Daten verloren(Spielstand, Punkte, ...). Man könnte es wie im vorigen Beispiel mit onSaveInstantState lösen, jedoch wird in dieser Lesson eine weitere Methode vorgestellt.
+
+### 5.5 What is Architecture
+In dieser Lesson lernen wir über single multi-purpose architectural pattern. 
+![](Pictures/Lesson_5_5.5.png)
