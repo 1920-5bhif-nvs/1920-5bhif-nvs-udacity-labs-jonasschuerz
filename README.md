@@ -507,3 +507,11 @@ Die Lesson wurde nochmal zusammengefasst.
 
 ### 5.1 Architecting on the Fly
 Einleitungsvideo
+
+### 5.2 Lesson Introduction
+In dieser Lesson lernen wir über: 
+- Application Architekture
+- ViewModel
+- Live Data
+- Data Binding
+
