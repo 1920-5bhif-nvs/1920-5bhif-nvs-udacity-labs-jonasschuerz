@@ -518,3 +518,6 @@ In dieser Lesson lernen wir über:
 ### 5.3 Exercise: Tour of the App
 In diesem Video wird die App vorgestellt. 
 Man muss Wörter erraten die ein anderer pantomimisch darstellt.
+
+### 5.4 Where the App Falls Short
+In diesem Video werden die Probleme gezeigt die wir auch beim vorigen Beispiel hatten. Wird das Handy gedreht so gehen die aktuellen Daten verloren(Spielstand, Punkte, ...). Man könnte es wie im vorigen Beispiel mit onSaveInstantState lösen, jedoch wird in dieser Lesson eine weitere Methode vorgestellt.
