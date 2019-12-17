@@ -504,3 +504,6 @@ In dieser Übung soll man das Handy drehen und schauen im Logcat welche Lifecycl
 Die Lesson wurde nochmal zusammengefasst.
 
 ## :scroll: Lesson 5
+
+### 5.1 Architecting on the Fly
+Einleitungsvideo
