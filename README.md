@@ -515,3 +515,6 @@ In dieser Lesson lernen wir über:
 - Live Data
 - Data Binding
 
+### 5.3 Exercise: Tour of the App
+In diesem Video wird die App vorgestellt. 
+Man muss Wörter erraten die ein anderer pantomimisch darstellt.
