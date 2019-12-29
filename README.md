@@ -525,3 +525,9 @@ In diesem Video werden die Probleme gezeigt die wir auch beim vorigen Beispiel h
 ### 5.5 What is Architecture
 In dieser Lesson lernen wir über single multi-purpose architectural pattern. 
 ![](Pictures/Lesson_5_5.5.png)
+
+### 5.6 Our App Architecture
+Seperation of Concerns, man sollte den Code in Klassen aufteilen.
+- UI Controller(activityFragment)
+- Viewmodel (beinhaltet alle Daten die man für die UI braucht)
+- LiveData: bringt die Daten vom Viewmodel in die UI
