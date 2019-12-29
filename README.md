@@ -531,3 +531,6 @@ Seperation of Concerns, man sollte den Code in Klassen aufteilen.
 - UI Controller(activityFragment)
 - Viewmodel (beinhaltet alle Daten die man für die UI braucht)
 - LiveData: bringt die Daten vom Viewmodel in die UI
+
+### 5.7 ViewModel
+Ist eine abstrakte Klasse die, die UI App Daten enthält, weiters überlebt sie Konfigurationsänderungen(zb. Handy wird gedreht, Daten bleiben erhalten).
