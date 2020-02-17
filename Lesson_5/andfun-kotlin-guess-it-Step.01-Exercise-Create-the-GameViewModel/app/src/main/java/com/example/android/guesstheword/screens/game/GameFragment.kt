@@ -67,6 +67,9 @@ class GameFragment : Fragment() {
             binding.scoreText.text = newScore.toString()
         })
 
+        viewModel.word.observe(this, Observer {newWord ->
+            binding.wordText.text = newWord
+        })
 
         updateWordText()
         return binding.root
@@ -95,7 +98,7 @@ class GameFragment : Fragment() {
     /** Methods for updating the UI **/
 
     private fun updateWordText() {
-        binding.wordText.text = viewModel.word
+        binding.wordText.text = viewModel.word.value
 
     }
 }
