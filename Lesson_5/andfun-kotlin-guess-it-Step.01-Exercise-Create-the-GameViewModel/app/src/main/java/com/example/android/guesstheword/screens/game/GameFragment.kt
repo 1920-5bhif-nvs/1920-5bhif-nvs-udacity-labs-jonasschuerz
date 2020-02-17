@@ -59,7 +59,7 @@ class GameFragment : Fragment() {
 
         binding.gameViewModel = viewModel
         binding.lifecycleOwner = this
-        
+
         viewModel.eventGameFinish.observe(this, Observer {hasFinished ->
             if (hasFinished){
                 gameFinished()
