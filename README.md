@@ -7,6 +7,7 @@
 - [Lesson 3](#scroll-Lesson-3)
 - [Lesson 4](#scroll-Lesson-4)
 - [Lesson 5](#scroll-Lesson-5)
+- [Lesson 6](#scroll-Lesson-6)
 
 
 ## :scroll: Lesson 1 
@@ -534,3 +535,12 @@ Seperation of Concerns, man sollte den Code in Klassen aufteilen.
 
 ### 5.7 ViewModel
 Ist eine abstrakte Klasse die, die UI App Daten enthält, weiters überlebt sie Konfigurationsänderungen(zb. Handy wird gedreht, Daten bleiben erhalten).
+
+### 5.8 Exercise: Create the GameViewModel
+
+## :scroll: Lesson 6
+In dieser Lektion lernt man über:
+- Room Database
+- DAOs
+- Application Architecture with Room
+- Coroutines
