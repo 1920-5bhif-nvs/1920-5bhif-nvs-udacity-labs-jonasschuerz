@@ -8,6 +8,7 @@
 - [Lesson 4](#scroll-Lesson-4)
 - [Lesson 5](#scroll-Lesson-5)
 - [Lesson 6](#scroll-Lesson-6)
+- [Lesson 7](#scroll-Lesson-7)
 
 
 ## :scroll: Lesson 1 
@@ -544,3 +545,20 @@ In dieser Lektion lernt man über:
 - DAOs
 - Application Architecture with Room
 - Coroutines
+
+## :scroll: Lesson 7
+
+RecyclerView:
+- Efficient
+- Display complex items
+- Customizable
+
+RecylerView Layout:
+- Layout list or grid
+- Scroll horizontal or vertical
+- Supports custom layouts
+
+Lists:
+- ListView
+- GridView
+- LinearLayout
