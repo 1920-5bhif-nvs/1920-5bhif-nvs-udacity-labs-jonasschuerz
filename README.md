@@ -10,6 +10,7 @@
 - [Lesson 6](#scroll-Lesson-6)
 - [Lesson 7](#scroll-Lesson-7)
 - [Lesson 8](#scroll-Lesson-8)
+- [Lesson 9](#scroll-Lesson-9)
 
 
 ## :scroll: Lesson 1 
@@ -566,5 +567,9 @@ Lists:
 
 ## :scroll: Lesson 8
 
-In dieser Lektion werden wir unsere App mit einem Server verbinden
+In dieser Lektion werden wir unsere App mit einem Server verbinden.
 ![](Pictures/Lesson_8_2.png)
+
+## :scroll: Lesson 9
+
+Startercode: https://github.com/udacity/andfun-kotlin-dev-bytes
