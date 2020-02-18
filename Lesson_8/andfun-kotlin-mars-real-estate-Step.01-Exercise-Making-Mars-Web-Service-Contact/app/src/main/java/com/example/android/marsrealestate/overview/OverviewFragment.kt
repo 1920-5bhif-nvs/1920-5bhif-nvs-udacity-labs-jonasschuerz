@@ -25,6 +25,7 @@ import com.example.android.marsrealestate.R
 import com.example.android.marsrealestate.databinding.FragmentOverviewBinding
 import com.example.android.marsrealestate.databinding.GridViewItemBinding
 
+
 /**
  * This fragment shows the the status of the Mars real-estate web services transaction.
  */
